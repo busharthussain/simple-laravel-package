@@ -1,5 +1,5 @@
 {
-    "name": "bash/bashpackage",
+    "name": "test/testpackage",
     "description": "A simple laravel package",
     "type": "project",
     "license": "MIT",
@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "bash\\bashpackage\\TestPackageServiceProvider"
+                "test\\testpackage\\TestPackageServiceProvider"
             ]
         }
     }
