@@ -1,5 +1,5 @@
 {
-    "name": "test/testpackage",
+    "name": "kiswatech/kiswapackage",
     "description": "A simple laravel package",
     "type": "project",
     "license": "MIT",
@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "test\\testpackage\\TestPackageServiceProvider"
+                "kiswatech\\kiswapackage\\TestPackageServiceProvider"
             ]
         }
     }
