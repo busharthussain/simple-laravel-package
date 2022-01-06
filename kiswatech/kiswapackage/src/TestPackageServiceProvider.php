@@ -1,6 +1,6 @@
 <?php
 
-namespace bash\bashpackage;
+namespace kiswatech\kiswapackage;
 
 use Illuminate\Support\ServiceProvider;
 

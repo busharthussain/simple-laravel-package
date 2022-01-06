@@ -1,6 +1,6 @@
 <?php
 
-namespace bash\bashpackage;
+namespace kiswatech\kiswapackage;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
