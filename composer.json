@@ -1,5 +1,5 @@
 {
-    "name": "kiswatech",
+    "name": "kiswatech/kiswapackage",
     "description": "A simple laravel package",
     "type": "project",
     "license": "MIT",
