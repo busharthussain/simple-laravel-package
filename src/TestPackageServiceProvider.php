@@ -14,7 +14,7 @@ class TestPackageServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('bash\bashpackage\TestPackageController');
+        $this->app->make('kiswatech\kiswapackage\TestPackageController');
     }
 
     /**
